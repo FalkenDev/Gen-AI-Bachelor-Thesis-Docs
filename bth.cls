@@ -434,7 +434,7 @@
    \includegraphics[width=#1]{bth}%
 }
 \newcommand{\bthcsnotextlogo}[1]{%
-   \includegraphics[width=#1]{bthnotext}%
+   \includegraphics[width=#1]{Images/bthnotext.pdf}%
 }
 \newcommand{\bthlogo}[1]{%
    \includegraphics[width=#1]{bth}%
