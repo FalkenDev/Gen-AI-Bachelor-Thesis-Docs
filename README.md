@@ -8,6 +8,9 @@ As technology advances, more and more companies have becomeinterested in integra
 - [Diva Portal](https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1890011&dswid=-2990)
 - [Uppsatser.se](https://www.uppsatser.se/uppsats/ee1ebb1da7/)
 
-- ## Author(s)
+# Data can be found at
+[Github - Gen-AI-Bachelor-Thesis-Data](https://github.com/FalkenDev/Gen-AI-Bachelor-Thesis-Data/tree/main)
+
+## Author(s)
 - [Kasper Falk / FalkenDev](https://github.com/FalkenDev)
 - [Joel Funk Persson / Jolpango](https://github.com/Jolpango)
