@@ -9,7 +9,7 @@ As technology advances, more and more companies have becomeinterested in integra
 - [Uppsatser.se](https://www.uppsatser.se/uppsats/ee1ebb1da7/)
 
 # Data can be found at
-[Github - Gen-AI-Bachelor-Thesis-Data](https://github.com/FalkenDev/Gen-AI-Bachelor-Thesis-Data/tree/main)
+- [Github - Gen-AI-Bachelor-Thesis-Data](https://github.com/FalkenDev/Gen-AI-Bachelor-Thesis-Data/tree/main)
 
 ## Author(s)
 - [Kasper Falk / FalkenDev](https://github.com/FalkenDev)
